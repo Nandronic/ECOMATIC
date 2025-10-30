@@ -114,7 +114,7 @@ The robot’s architecture is divided into **hardware**, **software**, and **con
 > *“ECOMATIC – Automated Robot for Cleaning Surroundings and Waste Collection with Segregation”*  
 > *International Journal of Advance Research and Innovative Ideas in Education (IJARIIE)*,  
 > Vol. 11, Issue 5, 2025.  
-> [Read Paper 📄](https://ijariie.com/FormDetails.aspx?MenuScriptId=27547)
+> [Read Paper 📄](https://acrobat.adobe.com/id/urn:aaid:sc:AP:f18d95d4-6ec1-4f48-8f9b-eedbb86a6b4c)
 
 ---
 
