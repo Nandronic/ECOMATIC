@@ -15,7 +15,7 @@
 - **Volume:** 11 | **Issue:** 5 | **Year:** 2025  
 - **Authors:** Mr. Jagannath B. R., Ms. Kavya M. D., Mr. Keerthan Murthy S., Mr. Mohith C., **Mr. Nandan U**  
 - **Affiliation:** Department of Electronics and Communication Engineering, Vidya Vikas Institute of Engineering & Technology (VVIET), Mysuru  
-- 📎 [Read Full Paper (PDF)](https://ijariie.com/FormDetails.aspx?MenuScriptId=27547)
+- 📎 [View Publication (Adobe Acrobat link)](https://acrobat.adobe.com/id/urn:aaid:sc:AP:f18d95d4-6ec1-4f48-8f9b-eedbb86a6b4c)
 
 ---
 
